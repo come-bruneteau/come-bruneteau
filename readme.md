@@ -1,5 +1,5 @@
 <h1 align="center">
-  Suprazy Profile
+  <img src="https://media.discordapp.net/attachments/668301486396014622/784738894603091998/imagegithub.png?width=1045&height=348">
 </h1>
 
 ## 👋 Informations
