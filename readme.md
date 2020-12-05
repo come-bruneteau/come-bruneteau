@@ -20,7 +20,7 @@ Click on `contributing` to participe on project.
 
 ## 🙇 Special Thanks
 
-- [booleans-oss](https://github.com/booleans-oss) for amazing readme
+- [booleans-oss](https://github.com/booleans-oss) for amazing readme, contribute on projects
 
 ## 🙇 Sponsors
 
