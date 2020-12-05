@@ -4,7 +4,7 @@
 
 ## 👋 Informations
 
-Hi, i'm Suprazy, i'm a software developer.
+Hi, i'm Suprazy, i'm a software developer, i am owner of [Development Community](https://discord.gg/ftAVgjp).
 
 ## 🧐 Features projects
 
