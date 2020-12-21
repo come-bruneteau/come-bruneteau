@@ -24,8 +24,9 @@ Click on `contributing` to participe on project.
 
 ## 🙇 Sponsors
 
-- [Allan](https://alls-heberg.fr) and [Alexandre](https://alls-heberg.fr) for give me a Virtual Server for my developing idea
+- [Allan](https://alls-heberg.fr) and [Alexandre](https://alls-heberg.fr) for give me a Virtual Private Server for my developing idea
 
-## 🚀 Support
+## 🚀 Others Links
 
 - [Server Discord](https://discord.gg/ftAVgjp)
+- [Youtube Channel](https://www.youtube.com/channel/UCmH1td7f73IEyYNNg5XDT9g)
