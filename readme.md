@@ -4,7 +4,8 @@
 
 ## 👋 Informations
 
-Hi, i'm Suprazy, i'm a software developer, i am owner of [Development Community](https://discord.gg/ftAVgjp).
+Hi, i'm Suprazy, i'm a fullstack developper, i am owner of [Development Community](https://discord.gg/ftAVgjp).
+If you want to learn Javascript, React, Typescript, Html, Css. Join the [discord](https://discord.gg/ftAVgjp)
 
 ## 🧐 Features projects
 
@@ -22,7 +23,7 @@ Click on `contributing` to participe on project.
 
 - [booleans-oss](https://github.com/booleans-oss) for amazing readme, contribute on projects
 
-## 🙇 Sponsors
+## 🙇 Partners
 
 - [Allan](https://alls-heberg.fr) and [Alexandre](https://alls-heberg.fr) for give me a Virtual Private Server for my developing idea
 
