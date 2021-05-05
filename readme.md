@@ -44,9 +44,7 @@ Hi, I am Suprazy, I am a *fullstack developper*, i am owner of **[Development Co
 - [Server Discord](https://discord.gg/sChcYDMf5G)
 - [Youtube Channel](https://www.youtube.com/channel/UCmH1td7f73IEyYNNg5XDT9g)
 
-<br/>
-
 ### 📊 Stats Github
-<img width=350 src="https://github-readme-stats.vercel.app/api?username=suprazy-dev&&hide=contribs,prs,issues,stars&&show_icons=true&title_color=ffffff&icon_color=0B6CA3&text_color=daf7dc&bg_color=151515&hide_border=true&hide_title=true">
+<img align="left" width=350 src="https://github-readme-stats.vercel.app/api?username=suprazy-dev&&hide=contribs,prs,issues,stars&&show_icons=true&title_color=ffffff&icon_color=0B6CA3&text_color=daf7dc&bg_color=151515&hide_border=true&hide_title=true">
 
-<img width=350 height=85 src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprazy-dev&layout=compact&bg_color=151515&title_color=fff&text_color=daf7dc">
+<img align="right" width=350 height=85 src="https://github-readme-stats.vercel.app/api/top-langs/?username=suprazy-dev&layout=compact&bg_color=151515&title_color=fff&text_color=daf7dc&hide_border=true">
