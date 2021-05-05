@@ -43,3 +43,6 @@ Hi, I am Suprazy, I am a *fullstack developper*, i am owner of **[Development Co
 
 - [Server Discord](https://discord.gg/sChcYDMf5G)
 - [Youtube Channel](https://www.youtube.com/channel/UCmH1td7f73IEyYNNg5XDT9g)
+
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=suprazy-dev&&show_icons=true&title_color=ffffff&icon_color=0B6CA3&text_color=daf7dc&bg_color=151515">
