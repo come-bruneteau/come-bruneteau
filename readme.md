@@ -34,11 +34,6 @@ Hi, I am Suprazy, I am a *fullstack developper*, i am owner of **[Development Co
  - [discord.js v12](https://www.youtube.com/watch?v=7kcm3FXG45M&list=PLpBtWRenhW_TrxYQn11892ABmua_dYyrh&index=1&t=703s) -> *in progress*
  - discord.js v11 -> *archived*
 
-
-### 🙇 Special Thanks
-
-- [booleans-oss](https://github.com/booleans-oss) for amazing readme, contribute on my projects
-
 ### 🚀 Others Links
 
 - [Server Discord](https://discord.gg/sChcYDMf5G)
