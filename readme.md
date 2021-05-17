@@ -1,6 +1,6 @@
 ### 👋 Informations
 
-Hi, I am Suprazy, I am a *fullstack developper*, i am owner of **[Development Community](https://discord.gg/sChcYDMf5G)**.
+Hi, I am Suprazy, I am a *backend developper*, i am owner of **[Development Community](https://discord.gg/sChcYDMf5G)**.
 
 ### 📚 Language learned
 
