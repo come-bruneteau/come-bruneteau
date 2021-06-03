@@ -30,8 +30,8 @@ Hi, I am Suprazy, I am a *backend developper*, i am owner of **[Development Comm
 ~~Click on `contributing` to participe on project~~
 
 ### 📺 Latest Youtube Series
- - [learn javascript](https://www.youtube.com/watch?v=cDfw6pekEqY&list=PLpBtWRenhW_RgEjC_Vzk3XqeebfgMMmCv&index=1&t=1s) -> *paused*
  - [discord.js v12](https://www.youtube.com/watch?v=7kcm3FXG45M&list=PLpBtWRenhW_TrxYQn11892ABmua_dYyrh&index=1&t=703s) -> *in progress*
+ - learn javascript -> *archived*
  - discord.js v11 -> *archived*
 
 ### 🚀 Others Links
