@@ -1,8 +1,8 @@
 ### 👋 Informations
 
-Hi, I am Suprazy, I am a *backend developper*, i am owner of **[Development Community](https://discord.gg/sChcYDMf5G)**.
+Hi, I am Suprazy, I am *fullstack developper*, I am Owner of **[Development Community](https://discord.gg/gjbXnt5NxK)**.
 
-### 📚 Language learned
+### 📚 Languages/Libraries/Technologies learned
 
 *if you click on language logo, you access on documentation*
 
@@ -34,9 +34,9 @@ Hi, I am Suprazy, I am a *backend developper*, i am owner of **[Development Comm
 ### 📺 Latest Youtube Series
  - [discord.js v12](https://www.youtube.com/watch?v=7kcm3FXG45M&list=PLpBtWRenhW_TrxYQn11892ABmua_dYyrh&index=1&t=703s) -> *in progress*
  - learn javascript -> *archived*
- - discord.js v11 -> *archived*
+ - discord.js v11 -> *finished*
 
 ### 🚀 Others Links
 
-- [Server Discord](https://discord.gg/sChcYDMf5G)
+- [Server Discord](https://discord.gg/gjbXnt5NxK)
 - [Youtube Channel](https://www.youtube.com/channel/UCmH1td7f73IEyYNNg5XDT9g)
