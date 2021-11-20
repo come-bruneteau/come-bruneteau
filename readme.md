@@ -32,7 +32,7 @@ Hi, I am Suprazy, I am *fullstack developper*, I am Owner of **[Development Comm
 ~~Click on `contributing` to participe on project~~
 
 ### 📺 Latest Youtube Series
- - discord.js v13 -> *coming soon*
+ - [discord.js v13](https://www.youtube.com/watch?v=YitVkjM2Cec&list=PLpBtWRenhW_S0fRWfxZZYDQZLYuLI0NPX)
  - [discord.js v12](https://www.youtube.com/watch?v=7kcm3FXG45M&list=PLpBtWRenhW_TrxYQn11892ABmua_dYyrh&index=1&t=703s) -> *finished*
  - learn javascript -> *archived*
  - discord.js v11 -> *archived*
