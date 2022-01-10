@@ -1,6 +1,7 @@
 ### 👋 Informations
 
-Hi, I am Suprazy, I am *fullstack developper*, I am Owner of **[Development Community](https://discord.gg/dev-community)**.
+Hi, my name is Suprazy, i am freelance developer.
+I am owner of [Development Community](discord.gg/dev-community)
 
 ### 📚 Languages/Libraries/Technologies learned
 
