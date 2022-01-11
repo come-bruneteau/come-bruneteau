@@ -30,7 +30,7 @@ I am owner of [Development Community](discord.gg/dev-community)
 
  - Contributing at [CLI](https://github.com/Development-Community/CLI)
 
-Click on `contributing` to participe on project
+*If you want to contribute at project, click on project name for view repository.*
 
 ### 📺 Latest Youtube Series
  - Watch [discord.js v13](https://www.youtube.com/watch?v=YitVkjM2Cec&list=PLpBtWRenhW_S0fRWfxZZYDQZLYuLI0NPX) series
