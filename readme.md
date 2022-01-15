@@ -1,6 +1,6 @@
 ### 👋 Informations
 
-Hi, my name is Suprazy, i am freelance developer.
+Hi, my name is Suprazy, i am freelance developer (i prefer backend developping *lmao*).
 I am owner of [Development Community](discord.gg/dev-community)
 
 ### 📚 Languages/Libraries/Technologies learned
