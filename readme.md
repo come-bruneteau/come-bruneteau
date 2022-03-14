@@ -1,7 +1,8 @@
 ### 👋 Informations
 
-Hi, my name is Suprazy, i am freelance developer (i prefer backend developping *lmao*).
-I am owner of [Development Community](discord.gg/dev-community)
+Hi, my name is Suprazy.
+I am owner of [Development Community](discord.gg/dev-community), RASC and Development Group.
+*Some of projects soon...*
 
 ### 📚 Languages/Libraries/Technologies learned
 
