@@ -1,8 +1,6 @@
-### 👋 Informations
+### 👋 Project
 
-Hi, my name is Suprazy.
-I am owner of [Development Community](discord.gg/dev-community), RASC and Development Group.
-*Some of projects soon...*
+I am owner of [Development Community](discord.gg/dev-community), RASC, Development Group and SupraCorp.
 
 ### 📚 Languages/Libraries/Technologies learned
 
@@ -32,7 +30,11 @@ I am owner of [Development Community](discord.gg/dev-community), RASC and Develo
  - Watch [CSS Tutorial](https://www.youtube.com/watch?v=yG0OxXKGXKs&list=PLpBtWRenhW_QwNeqARAaO7rGZ34qUCYVC) series
  - Watch [Workshop](https://www.youtube.com/watch?v=CuUSNWmgIPI&list=PLpBtWRenhW_SSkuJ9u2onOxVzW5g-qBCH) series
 
-### 🚀 Join us
+### 🚀 Socials Networks
 
-- [Discord Server](https://discord.gg/dev-community)
-- [Youtube Channel](https://www.youtube.com/channel/UCmH1td7f73IEyYNNg5XDT9g)
+- [Discord](https://discord.gg/dev-community)
+- [Youtube](https://www.youtube.com/channel/UCmH1td7f73IEyYNNg5XDT9g)
+- [Twitter](https://www.twitter.com/SuprazyDoBrazil)
+- [LinkedIn](https://www.linkedin.com/in/c%C3%B4me-bruneteau-700762215)
+- [Instagram](https://www.instagram.com/suprazy.development)
+- [Gmail](suprazy.sdy@gmail.com)
