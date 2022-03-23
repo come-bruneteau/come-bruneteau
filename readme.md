@@ -37,4 +37,4 @@ I am owner of [Development Community](discord.gg/dev-community), RASC, Developme
 - [Twitter](https://www.twitter.com/SuprazyDoBrazil)
 - [LinkedIn](https://www.linkedin.com/in/c%C3%B4me-bruneteau-700762215)
 - [Instagram](https://www.instagram.com/suprazy.development)
-- [Gmail](suprazy.sdy@gmail.com)
+- [Gmail](mailto:suprazy.sdy@gmail.com)
