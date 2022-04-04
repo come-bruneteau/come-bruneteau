@@ -3,7 +3,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">
-I am developer fullstack, web designer, data scientist and <a href="https://youtube.com/DevelopmentCommunityFR">content creator</a>. I'm currently creator of branch <strong><a href="https://github.com/development-community">Development</a>, RAS and Suprazy</strong>. Presently I am working with international companies and individual. You can reach me <a href="mailto:comebruneteaupro@gmail.com">mail</a>.
+I am developer fullstack, web designer, data scientist and <a href="https://youtube.com/DevelopmentCommunityFR">content creator</a>, editor and graphic designer. I'm currently creator of branch <strong><a href="https://github.com/development-community">Development</a>, RAS and Suprazy</strong>. Presently I am working with international companies and individual. You can reach me <a href="mailto:comebruneteaupro@gmail.com">mail</a>.
 
 </p>
 
