@@ -22,6 +22,7 @@ I am fullstack developer, mobile app developer, web/graphic/program designer, da
 <h3 align="left">Work for its companies</h3>
 <p>
 <a href="https://www.3ds.com"><img src="https://yt3.ggpht.com/ytc/AKedOLRTxurmt8FfFZsz_MPE42suNM23_erfot259kfn2Q=s900-c-k-c0x00ffffff-no-rj" alt="dassault systèmes" width="40" height="40"/></a>
+<a href="https://github.com/development-community"><img src="https://avatars.githubusercontent.com/u/76447157?s=200&v=4" alt="development community branch" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Partners, Affiliate and Main contributors:</h3>
