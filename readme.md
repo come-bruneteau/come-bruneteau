@@ -28,7 +28,6 @@ I am fullstack developer, mobile app developer, web/graphic/program designer, da
 <h3 align="left">Partners, Affiliate and Main contributors:</h3>
 <p align="left">
 <a href="https://discord.com/"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" alt="discord" width="40" height="40"/></a>
-<a href="https://discord.com/invite/cafedesdevs"><img src="https://media.discordapp.net/attachments/859164683834490944/960442600706420786/a_85f8d29288d678dab45fd9332d8555bd.webp" alt="cafedesdevs" width="40" height="40"/></a>
 <a href="https://github.com/booleans-oss"><img src="https://avatars.githubusercontent.com/u/40752807?v=4" alt="booleans" width="40" height="40"/></a>
 <a href="https://github.com/Hesedi3l"><img src="https://avatars.githubusercontent.com/u/44545404?v=4" alt="hesediel" width="40" height="40"/></a>
 <a href="https://github.com/Cyrnax24"><img src="https://avatars.githubusercontent.com/u/65818042?v=4" alt="cyrnax" width="40" height="40"/></a>
