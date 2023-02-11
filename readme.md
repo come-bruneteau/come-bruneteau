@@ -22,19 +22,16 @@ I am fullstack developer, mobile app developer, web/graphic/program designer, da
 </p>
 
 <h3 align="left">Internship</h3>
-<p>
+<p align="left">
 <a href="https://www.3ds.com"><img src="https://yt3.ggpht.com/ytc/AKedOLRTxurmt8FfFZsz_MPE42suNM23_erfot259kfn2Q=s900-c-k-c0x00ffffff-no-rj" alt="dassault systèmes" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Work for its companies</h3>
-<p>
+<p align="left">
 <a href="https://github.com/development-community"><img src="https://avatars.githubusercontent.com/u/76447157?s=200&v=4" alt="development community branch" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Partners, Affiliate and Main contributors:</h3>
+<h3 align="left">Partners, Affiliate:</h3>
 <p align="left">
 <a href="https://discord.com/"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" alt="discord" width="40" height="40"/></a>
-<a href="https://github.com/booleans-oss"><img src="https://avatars.githubusercontent.com/u/40752807?v=4" alt="booleans" width="40" height="40"/></a>
-<a href="https://github.com/Hesedi3l"><img src="https://avatars.githubusercontent.com/u/44545404?v=4" alt="hesediel" width="40" height="40"/></a>
-<a href="https://github.com/Cyrnax24"><img src="https://avatars.githubusercontent.com/u/65818042?v=4" alt="cyrnax" width="40" height="40"/></a>
 </p>
