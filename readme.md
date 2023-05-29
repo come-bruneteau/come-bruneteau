@@ -6,7 +6,7 @@ I am Côme Bruneteau, fullstack developer, web/graphic/program designer, <a href
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/suprazydobrazil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suprazydobrazil" height="30" width="40" /></a>
+<a href="https://twitter.com/come_brt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suprazydobrazil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/c%c3%b4me-bruneteau-700762215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="c%c3%b4me-bruneteau-700762215" height="30" width="40" /></a>
 <a href="https://instagram.com/suprazy.development" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suprazy.development" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/developmentcommunityfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="developmentcommunityfr" height="30" width="40" /></a>
