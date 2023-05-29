@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Côme "Suprazy" Bruneteau</h1>
-<h3 align="center">A passionate full stack developer from France</h3>
-
 <h3 align="left">About me:</h3>
 <p align="left">
-I am fullstack developer, mobile app developer, web/graphic/program designer, data scientist, <a href="https://youtube.com/DevelopmentCommunityFR">content creator</a>, editor, designing/using apis and data architect. I'm currently creator of branch <strong><a href="https://github.com/development-community">Development</a>, RAS and Suprazy</strong>. Presently I am working with international companies and individual. You can reach me <a href="mailto:comebruneteaupro@gmail.com">mail</a>.
+I am Côme Bruneteau, fullstack developer, web/graphic/program designer, <a href="https://youtube.com/DevelopmentCommunityFR">content creator</a>, editor, designing/using apis and data architect. I'm currently creator of branch <strong><a href="https://github.com/development-community">Development</a>. You can reach me <a href="mailto:comebruneteaupro@gmail.com">mail</a>.
 
 </p>
 
