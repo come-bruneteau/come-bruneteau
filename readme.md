@@ -27,8 +27,3 @@ I am Côme Bruneteau, fullstack developer, web/graphic/program designer, <a href
 <p align="left">
 <a href="https://github.com/development-community"><img src="https://avatars.githubusercontent.com/u/76447157?s=200&v=4" alt="development community branch" width="40" height="40"/></a>
 </p>
-
-<h3 align="left">Partners, Affiliate:</h3>
-<p align="left">
-<a href="https://discord.com/"><img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-0.png" alt="discord" width="40" height="40"/></a>
-</p>
