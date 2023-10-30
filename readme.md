@@ -1,6 +1,6 @@
 <h3 align="left">About me:</h3>
 <p align="left">
-I am Côme Bruneteau, fullstack developer, web/graphic/program designer, designing/using apis and data architect. I'm creator of <strong><a href="https://github.com/development-community">Development Community</a> project. You can reach me <a href="mailto:comebruneteaupro@gmail.com">mail</a>.
+I am Côme Bruneteau, fullstack developer, web/graphic/program designer, designing/using apis and data architect. I'm creator of <strong><a href="https://github.com/development-community">Development Community</a></strong> project. You can reach me <a href="mailto:comebruneteaupro@gmail.com">mail</a>.
 
 </p>
 
