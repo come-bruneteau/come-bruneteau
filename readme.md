@@ -4,13 +4,7 @@ I am Côme Bruneteau, fullstack developer, web/graphic/program designer, designi
 
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/come_bruneteau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suprazydobrazil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/c%c3%b4me-bruneteau-700762215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="c%c3%b4me-bruneteau-700762215" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Main projects:</h3>
+<h3 align="left">Main project:</h3>
 <p align="left">
 <a href="https://github.com/TOAQ-oss"><img src="https://avatars.githubusercontent.com/u/106873308?s=200&v=4" alt="toaq" width="40" height="40"/></a>
 </p>
