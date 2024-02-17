@@ -4,7 +4,7 @@ I am Côme Bruneteau, fullstack developer, web/graphic/program designer, designi
 
 </p>
 
-<h3 align="left">Main project:</h3>
+<h3 align="left">Company:</h3>
 <p align="left">
 <a href="https://github.com/TOAQ-oss"><img src="https://avatars.githubusercontent.com/u/106873308?s=200&v=4" alt="toaq" width="40" height="40"/></a>
 </p>
