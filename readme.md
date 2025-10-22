@@ -5,7 +5,7 @@
 
 <h3 align="left">Publication:</h3>
 <p align="left">
-<a href="https://research.toaq.fr/index/The%20ethical%20problems%20and%20considerations%20of%20creating%20artificial%20consciousness">The ethical problems and considerations of creating artificial consciousness</a>
+<a href="https://research.toaq.fr/research/The-ethical-problems-and-considerations-of-creating-artificial-consciousness.pdf">The ethical problems and considerations of creating artificial consciousness</a>
 </p>
 <h3 align="left">Internship:</h3>
 <p align="left">
