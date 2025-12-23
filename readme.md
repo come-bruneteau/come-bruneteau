@@ -5,10 +5,10 @@
 
 <h3 align="left">Publication:</h3>
 <p align="left">
-<a href="https://research.toaq.fr/research/The-ethical-problems-and-considerations-of-creating-artificial-consciousness.pdf">The ethical problems and considerations of creating artificial consciousness</a>
+<a href="https://research.toaq.fr/research/Non-Linear-Computational-Modeling-of-Emotional-Like-States-in-Artificial-Agents.pdf">Non-Linear Computational Modeling of Emotional-Like States in Artificial Agents</a>
 </p>
 <p align="left">
-<a href="https://research.toaq.fr/research/Non-Linear-Computational-Modeling-of-Emotional-Like-States-in-Artificial-Agents.pdf">Non-Linear Computational Modeling of Emotional-Like States in Artificial Agents</a>
+<a href="https://research.toaq.fr/research/The-ethical-problems-and-considerations-of-creating-artificial-consciousness.pdf">The ethical problems and considerations of creating artificial consciousness</a>
 </p>
 <h3 align="left">Internship:</h3>
 <p align="left">
