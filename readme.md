@@ -3,6 +3,11 @@
 <a href="https://github.com/TOAQ-oss"><img src="https://toaq.fr/logo.png" alt="toaq" width="40" height="40"/></a>
 </p>
 
+<h3 align="left">Model:</h3>
+<p align="left">
+<a href="https://huggingface.co/TOAQ/Leon-7B-Research-Radio-v1">Leon-7B-Research-Radio-v1</a> - <a href="https://toaq.fr/pdf/leon-v1-fine-tuning-mistral-7b-for-the-automation-of-scientific-podcasts">Technical Paper</a>
+</p>
+
 <h3 align="left">Publication:</h3>
 <p align="left">
 <a href="https://research.toaq.fr/research/Non-Linear-Computational-Modeling-of-Emotional-Like-States-in-Artificial-Agents.pdf">Non-Linear Computational Modeling of Emotional-Like States in Artificial Agents</a>
