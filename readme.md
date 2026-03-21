@@ -29,5 +29,6 @@
 <h3 align="left">Creator of its own groups:</h3>
 <p align="left">
 <a href="https://github.com/TOAQ-oss"><img src="https://toaq.fr/logo.png" alt="toaq" width="40" height="40"/></a>
+<a href="https://omni-core.org"><img src="https://omni-core.org/omni-core-logo.svg" alt="omni-core" width="40" height="40"/></a>
 <a href="https://github.com/development-community"><img src="https://avatars.githubusercontent.com/u/76447157?s=200&v=4" alt="development community branch" width="40" height="40"/></a>
 </p>
