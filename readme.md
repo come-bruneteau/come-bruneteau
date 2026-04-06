@@ -3,10 +3,9 @@
 <a href="https://github.com/TOAQ-oss"><img src="https://toaq.fr/logo.png" alt="toaq" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">Open Source Modules:</h3>
+<h3 align="left">Open Source Projects:</h3>
 <p align="left">
-  <a href="https://github.com/toaq-oss/omni-mdx-core">omni-mdx-core</a> (Rust/WASM) — 
-  <a href="https://www.npmjs.com/package/@toaq-oss/mdx-engine">@toaq-oss/mdx-engine</a> (React)
+  <a href="https://github.com/toaq-oss/omni-mdx-core">omni-mdx-core</a>
 </p>
 
 <h3 align="left">Model:</h3>
