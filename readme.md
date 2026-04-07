@@ -15,10 +15,10 @@
 
 <h3 align="left">Publication:</h3>
 <p align="left">
-<a href="https://research.toaq.fr/research/Non-Linear-Computational-Modeling-of-Emotional-Like-States-in-Artificial-Agents.pdf">Non-Linear Computational Modeling of Emotional-Like States in Artificial Agents</a>
+<a href="https://toaq.fr/pdf/non-linear-computational-modeling-of-emotional-like-states-in-artificial-agents">Non-Linear Computational Modeling of Emotional-Like States in Artificial Agents</a>
 </p>
 <p align="left">
-<a href="https://research.toaq.fr/research/The-ethical-problems-and-considerations-of-creating-artificial-consciousness.pdf">The ethical problems and considerations of creating artificial consciousness</a>
+<a href="https://toaq.fr/pdf/the-ethical-problems-and-considerations-of-creating-artificial-consciousness">The ethical problems and considerations of creating artificial consciousness</a>
 </p>
 <h3 align="left">Internship:</h3>
 <p align="left">
