@@ -1,7 +1,5 @@
 <h3 align="left">Company:</h3>
-<p align="left">
-<a href="https://github.com/TOAQ-oss"><img src="https://toaq.fr/logo.png" alt="toaq" width="40" height="40"/></a>
-</p>
+<p align="left"><a href="https://github.com/TOAQ-oss">TOAQ</a></p>
 
 <h3 align="left">Open Source Projects:</h3>
 <p align="left">
@@ -21,14 +19,9 @@
 <a href="https://toaq.fr/pdf/the-ethical-problems-and-considerations-of-creating-artificial-consciousness">The ethical problems and considerations of creating artificial consciousness</a>
 </p>
 <h3 align="left">Internship:</h3>
-<p align="left">
-<a href="https://www.3ds.com"><img src="https://yt3.ggpht.com/ytc/AKedOLRTxurmt8FfFZsz_MPE42suNM23_erfot259kfn2Q=s900-c-k-c0x00ffffff-no-rj" alt="dassault systèmes" width="40" height="40"/></a>
-</p>
+<p align="left"><a href="https://www.3ds.com">Dassault Systèmes</a> <span>, 2022</span></p>
 
 <h3 align="left">Creator of its own groups:</h3>
-<div>
-  <a href="https://github.com/TOAQ-oss"><img align="left" src="https://toaq.fr/logo.png" alt="toaq" width="40" height="40" /></a>
-  <a href="https://omni-core.org"><img align="left" src="https://omni-core.org/omni-core-logo.svg" alt="omni-core" width="40" height="40" /></a>
-  <a href="https://github.com/development-community"><img align="left" src="https://avatars.githubusercontent.com/u/76447157?s=200&v=4" alt="development community branch" width="40" height="40" /></a>
-</div>
-<br clear="all" />
+<p align="left"><a href="https://github.com/TOAQ-oss">TOAQ</a><span>, 2024-Today</span></p>
+<p align="left"><a href="https://omni-core.org">Omni-Core</a><span>, 2026-Today</span></p>
+<p align="left"><a href="https://github.com/development-community">Development Community</a><span>, 2020-2023</span></p>
