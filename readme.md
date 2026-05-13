@@ -3,7 +3,10 @@
 
 <h3 align="left">Open Source Projects:</h3>
 <p align="left">
-  <a href="https://github.com/toaq-oss/omni-mdx-core">omni-mdx-core</a>
+  <a href="https://omni-core.org">Omni-Core</a>
+<ul>
+  <li><a href="https://github.com/toaq-oss/omni-mdx-core">omni-mdx</a></li>
+</ul>
 </p>
 
 <h3 align="left">Model:</h3>
